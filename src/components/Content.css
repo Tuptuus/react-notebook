@@ -1,0 +1,18 @@
+textarea{
+  resize: none;
+  border: none;
+  outline: none;
+  width: 80%;
+  height: 70vh;
+  margin-top: 20px;
+  background-color: rgba(0, 0, 0, 0);
+  font-size: 35px;
+}
+
+textarea::-webkit-scrollbar {
+  display: none;
+}
+
+.container-area{
+  text-align: center;
+}
