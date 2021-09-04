@@ -1,0 +1,16 @@
+.container-squares{
+  background-color: green;
+  height: 100vh;
+  width: 20%;
+  overflow-y: scroll;
+}
+
+.container-squares::-webkit-scrollbar {
+  display: none;
+}
+
+.square{
+  /* width: 20%; */
+  background-color: yellow;
+  height: 20%;
+}
